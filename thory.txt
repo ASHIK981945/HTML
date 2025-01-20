@@ -1,0 +1,25 @@
+shift + 1 = enter
+boilerplate code
+p = tab = <p>
+<p>  this is a paragrap tag</p>
+<b> this is a bdd tag </b>
+<i> this is italic tags </i>
+<u> this is underline tag</u>
+<br> bronk paragrap
+<hr>
+nested tag= inside the motu line<b>
+<img src="ashik.jpg" alt=""width="150" height="150">= alt
+<sup> =power
+<sub>= down
+<div> any place
+<span> any place
+<footer>
+<article>
+<sectiom>
+lists <li>
+ordered list <ol>
+unordered list <ul>
+<marquee>
+<label>
+frame in html
+frame 1 :hello & frame 2 : world

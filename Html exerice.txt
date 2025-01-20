@@ -1,0 +1,24 @@
+heading
+image
+list 
+groceries
+.apple 
+.orange
+.banana
+hardware
+.hammer
+.nails
+.duct tape
+
+1. EPSON Perfection V600 Photo Scanner:
+  i. High-resolution(6400 DPI).
+  ii. Versatile for photos and documents.
+2. Fujitsu ScanSnap iX1500:
+  i. Compact and efficient.
+  ii. Wireless connectivity.
+3. EPSON DS-575W:
+  i. Fast scan speeds.
+  ii. Compatible with various document sizes.
+4. Doxie Go SE:
+  i. Portable and rechargeable.
+  ii. Simple and intuitive design
