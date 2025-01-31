@@ -5,7 +5,11 @@
 <body>
 	<h1> sports</h1>
 	<div>
+<<<<<<< HEAD
 <ul style="list-style-type:square"> 
+=======
+<ul style="list-style-type:square color="red"> 
+>>>>>>> c25321c (3_html)
 	<li> football </li>
 	<li> volleyball </li>
 </ul>

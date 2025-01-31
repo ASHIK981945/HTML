@@ -1,0 +1,49 @@
+<html>
+<head> 
+<title> routine </title>
+<style>
+table,td{ 
+
+border:1px solid black;
+border-collapse: collapse;
+text-align:center;
+}
+th{
+	background-color: red;
+	border:1px solid black;
+	border-collapse: collapse;
+	
+}
+
+</style>
+</head>
+</html>
+<body>
+<table >
+<tr> 
+<td colspan="4"> Routine</td>
+</tr>
+<tr>
+<td> SUNDAY</td>
+<td> MONDAY </td>
+<td rowspan="4" > BREAK</td>
+<td> TUESDAY</td>
+</tr>
+<tr>
+<td>WT </td>
+<td>DSA </td>
+<td>SAD </td>
+</tr>
+<tr>
+<td>JAVA</td>
+<td>STAT</td>
+<td>MATH </td>
+</tr>
+<tr>
+<td> &nbsp</td>
+<td> &nbsp</td>
+<td> &nbsp</td>
+</tr>
+
+</body>
+</html>

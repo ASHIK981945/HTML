@@ -1,0 +1,17 @@
+different styling tags 
+
+b ,i, u, strong ,del , strite , tt, sub ,sup , ins , small , big
+
+list 
+
+definition 
+ description (dd , dt)
+ordered ol,li
+unordered (ul,li)
+
+altribute properites
+( list style  -types)
+
+
+commit  = < ! ..... !>
+
