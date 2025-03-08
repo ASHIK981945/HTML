@@ -22,12 +22,12 @@ background-color:rgb(204, 204, 255);
 
 <div class=" form" >
 <form>
+	<p> facebook </p>
 	<label for="uname">USERNAME<label> <br>
 	<input types="text" id="uname" name="uname" placeholder="Enter you username" > <br>
 	<br>
 	<label for="pwd">PASSWORD</label><br>
-	<input type="password" id="pwd" name="pwd" placeholder="Enter you passworld"> <br>
-		
+	<input type="password" id="pwd" name="pwd" placeholder="Enter you passworld"> <br>	
 </form> <br>
 <button >Log In </button>
 

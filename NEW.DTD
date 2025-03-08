@@ -1,0 +1,21 @@
+<!DOCTYPE News[
+<!ELEMENT News (Aritcle+)>
+<!ElEMENT Articl(Title,Author,Content,Categoey)>
+<!ATTLIST Articl
+	id ID #RE
+	publiced("yes" |"no")
+>
+	
+<!ELEMENT Title(#PCDATA)>
+<!ELEMENT Author(Firstname ,lastname)>
+<!ELEMENT Firstname (#PCDATA)>
+<!ELEMENT lastname>
+<!ELEMENT content>
+<!ELEMENT category>
+<!ATTLIST Category
+	id ID #R
+>	
+
+
+]>
+	

@@ -1,0 +1,13 @@
+<!xml>
+<News>
+	<Article id="a1" published=""yes>
+	<Title>nepathya hosts futsal tournment</Title>
+	<Author>
+		<firstname>ashik</firstname>
+		<lastname>rana<lastname>
+	</Author>
+	<Content> </Content>
+	<category id="c01:>
+	</Article>
+
+	

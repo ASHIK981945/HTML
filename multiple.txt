@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Notes>
+    <Note id="1"  name="ashik magar" date="2052-02-09">
+        <Title>meet up</Title>
+        <Message>meet up in nepathay collage.</Message>
+    </Note>
+    <Note id="2" name="binod" date="2052-02-10">
+        <Title>picinc date</Title>
+        <Message>must present in nepathay collage , next Friday.</Message>
+    </Note>
+    <Note id="3" name="aayush" date="2052-02-11">
+        <Title>Khane kura</Title>
+        <Message>Buy milk, eggs, and bread,meat,butter.</Message>
+    </Note>
+</Notes>
