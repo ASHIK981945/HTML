@@ -1,0 +1,91 @@
+rules
+1)must have a root element
+2)must closed
+3)properly nested
+4)case sensitive
+5)proper naming tags
+6) cannot contain spaces
+7)attribute values must appear within Quotes
+8) white space is preserved
+9)avoid html (op<tional)  
+<!-- commit-->  
+ 
+* DTD 
+interal (within the xml document in the prolog part)
+exteinal (outside.dtd)
+combined()
+
+
+<!DOCTYPE tutorial SYSTEM "tutorial.dtd">
+<!DOCTYPE tutorial PUBLIC indetifier url>
+E.g;
+<!DOCTYPE html PUBLIC (IN 4 PATH)
+"-//W3C (K YA BANA KO HO)//DTD x HTML(KASTO TYPE KO DOCUMENT BANA XA DIFINE GANA ) // EN " (identifier FPI)
+w3.org/ dtd/ html"
+
+DTD ELEMENT
+<!ELEMENT element_name  content_model>
+<!ELEMENT   Student   (name, address )>
+<!ELEMENT Name (#PCDATA)(Any)(PCDATA: parsed character data)-> (<name> xml </name>)
+
+EMPTY TAGS
+EMPTY 
+<A> tutorial </A>
+
+MUITIPLE CHILD ELEMENT
+<!ELEMENT name (fname* ,mname , lname)
+
+operation xml
+
+ (*-> no or more occurance , +-> one or more  occurance,? -> zero or one  occurance,)
+
+OR operations ->
+name(fname| fullname ) ( | pipe)
+(FName | Lname | Name) + 
+
+(fname *, lname ? , Name )+ -> (sequence) E.g-> tutorial (author, rating?)+ name, url *)
+
+<!ELEMENT tutorial ( name+ ,url *)>
+
+
+DTD
+<! ATTLIST ELEMENT-NAME
+attribute.name TYPE DEFAULT_VALUE
+
+Types
+	value
+	#IMPLIED
+	#FIXED VALUE
+
+value
+	CDATA
+	EMTITY
+	ENTITES
+	Enumerialed
+	ID
+	ID REF
+	ID REFS 
+	NM TOKEN
+	NM TOKENS
+	NU TATIONS
+
+<stundent XMLS:"U3C.COM/XMLSTUNDENT"> <---(URL)
+<nc.name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          

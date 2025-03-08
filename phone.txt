@@ -1,0 +1,7 @@
+<?xml verison = "2.0" ?>
+<PhoneNumbe>
+<Contact name="Praladcha" phone="100" type="mobile" />
+<Contact name="Bikash" phone="200" type="mobile" />
+<Contact name="Sachiv Ji" phone="300" type="office" />
+<Contact name="Pradhan Ji" phone="400" type="home" />
+</PhoneNumbe>

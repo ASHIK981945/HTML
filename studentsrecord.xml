@@ -1,0 +1,44 @@
+<?xml>
+<!DocType students [//DTD Rule
+<!ELEMENT student (name,phone,address,batch,semester)>
+<!AATTRLIST Student id (#CDATA)>
+<!ELEMENT address(city,street)>
+<!ELEMENT city(#PCDATA)>
+<!ELEMENT street(#PCDATA)>
+<!ELEMENT phone(#PCDATA)>
+<!ELEMENT batch (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+
+
+]
+<students>
+	<student id="1" >
+		<name>rana</name>
+		<phone>132938423</phone>
+		<address>
+			<city>tilottama</city>
+			<street>5</street>
+		</address>
+		<batch>2080<batch>
+		<semester>3rd</semester>
+	<student>
+	<student id="2" >
+		<name>git</name>
+		<phone>132938423</phone>
+		<address>
+			 <city>butwal</city>
+			 <street></street>
+		</address>
+		<batch>2080<batch>
+		<semester>3rd</semester>
+	<student>
+	<student id="3" >
+		<name>sit</name>
+		<phone>132938423</phone>
+		<address> 
+			<city>butwal </city>
+			<street>butwal-2</sreet>
+		<semester>3rd</semester>
+	<student>
+</students>
+</xml>

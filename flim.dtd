@@ -1,0 +1,20 @@
+<!DOCTYPE Movie [
+<!ELEMENT Movie( Filmview)>
+<!ELEMENT Filmview>
+<!ATTLIST Movie 
+	(Name CDATA #IMPLTED
+	Title DATA #IMPLTED
+ 	Director CDATA #IMPLTED
+     	ReleaseYear CDATA #IMPLTED
+     	Genre CDATA #IMPLTED
+     	Duration CDATA #IMPLTED)
+
+	
+>
+<!ATTLIST Filmview 
+	Id CDATA #REQUTRED
+	Title DATA #REQUTRED
+ 	Director CDATA #REQUTRED
+     	Duration CDATA #REQUTRED
+>
+]>

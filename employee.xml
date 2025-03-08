@@ -1,0 +1,12 @@
+<? xml version="1.0">
+
+<employee 
+xsi:xmlns="http://www.w3.org/2001/XMLSchema"
+xsi:nonamespaceSchemalocat="/employee.xsd">
+<employee_name>
+    ashik
+</employee_name>
+<employee_age>
+    25
+</employee_age>
+</employee>

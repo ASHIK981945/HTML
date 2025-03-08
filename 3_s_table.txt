@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>
+ TABLE
+</title>
+<style>
+	table,th,td{ 
+
+border:1px solid black;
+border-collapse: collapse;
+padding: 10px;
+}
+</style>
+<body >
+<table>
+<caption> student table </caption>
+<tr>
+	<th rowspan="2"> S.N </th>
+	<th colspan="2"> NAME </th>
+	<th rowspan="2" > phone</th>
+	<th colspan="2"> address</th>
+</tr>
+<tr>
+<th>first name</th>
+<th> last name</th>
+<th> per</th>
+<th> temp </th>
+</tr>
+<tr>
+<td> 1</td>
+<td> ram</td>
+<td> rana </td>
+<td> 653423449</td>
+<td> butwal </td>
+<td> manigram</td>
+<tr>
+</table>
+</body>
+</html>

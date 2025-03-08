@@ -1,0 +1,2 @@
+<-- 1) xml code: notes with multiple note -attribute -->
+<-- 2)-xml code phone entries with multiple entries and attributes -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization>
+    <name>ABC Tech</name>
+    <departments>
+        <department>
+            <name>IT</name>
+            <employees>
+                <employee>
+                    <id>1</id>
+                    <name>git rana </name>
+                    <position>IOT</position>
+                </employee>
+                <employee>
+                    <id>2</id>
+                    <name>RANA THAPA</name>
+                    <position>System Administrator</position>
+                </employee>
+            </employees>
+        </department>
+        <department> 
+                <employee>
+                    <id>3</id>
+                    <name>Tony stark</name>
+                    <position>IOT Manager</position>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
+
+
+<!-- sunday9mar
+ what is  image  map   describe use of image
+    describe the use if hyperlink tag?
+    different tag and element /element and attributes in html and describe global attributes of html
+    describe about one tier,two tier ,three tier and n tire  architecture with their block diagram 
+    decsribe how websites works -->
+
+    <!-- c->3 nextsunday 16mar
+        DB xml and html is xml replacement for html?
+        describe about the features and advantages of xml explain the structure of xml document
+        describe  the rule for writting well_form xml document
+        what are  xml name spaces Describe its types
+        DB  dtd and xsd-->
+
+
+        <!-- lab1 9mar
+         design a website to demonstrate a use of form ,table,link,iframes and other html tag style then using extenal css
+         lab2  23mar
+         wtite an xml document for the following 
+         i notes
+         2 library
+         3 movie
+         lab3 23mar
+         write an dtd for phone number 
+         lab4 23mar
+         write an xsd for an organization with various attributes
+          and restrictions create  a respected xml document for it
+         -->
